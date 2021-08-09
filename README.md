@@ -1,8 +1,7 @@
 <h2 align="center"> 🍎 Projeto Cadastro de um Nutricionista 🍏</h2>
 
 
-<p> Durante o estágio na Compasso UOL, foi proposto aos bolsistas alguns cursos voltados ao desenvolvimento de projetos front end, onde 
-  tais projetos capacitariam e revisariam conceitos importantes na linguagem Java Script, em um dos cursos: <b><i>JavaScript: Conhecendo a linguagem web</b></i> foi desenvolvido um projeto simples para revisar alguns conceitos mais básico e padrões de implementação.
+<p> Durante o estágio na Compasso UOL, foram propostos aos bolsistas alguns cursos voltados ao desenvolvimento de projetos front end. Os mesmos atuariam na capacitação e revisão de conceitos importantes na linguagem Java Script. No curso <i><b>"JavaScript: conhecendo a linguagem da web"</i></b> foi desenvolvido um projeto projeto simples, com o objetivo de revisar conceitos básicos e padrões de implementação.
   
 ##
   
